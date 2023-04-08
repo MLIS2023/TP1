@@ -1,8 +1,4 @@
-# Proyecto_1_DOE_IS2023
-
-
-
-## Proyecto 1 Diseño de experimentos: Galton Board
+# Trabajo Prático #1 Aprendizaje Automático
 
 Estudiantes:
 
