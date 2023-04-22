@@ -3,5 +3,4 @@
 Estudiantes:
 
 - [ ] Gabriel Gutiérrez
-- [ ] Joseph González
 - [ ] Miguel Abreu
